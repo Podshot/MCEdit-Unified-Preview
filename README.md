@@ -25,5 +25,5 @@ This repository is for hosting OpenGL .dlls required by the Windows build of MCE
 * Do I have to signup anywhere to test these builds?
   * No, but I ask you to read the Warnings section above and to report any/all bugs or errors that you encounter as soon as you can along with the steps to reproduce
   
-* What is changed between testing builds?
+* Where is the changlog?
   * Changelogs are not automatically generated, so changes have to be manually added after every build. This will take some time, so please be patient if you don't see a changelog immediately after a build
