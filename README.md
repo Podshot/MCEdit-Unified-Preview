@@ -13,14 +13,17 @@ This repository is for hosting OpenGL .dlls required by the Windows build of MCE
     * Any other issues should be reported to the usual [MCEdit-Unified Github](https://github.com/Khroki/MCEdit-Unified)
   * I may not be able to fix any/all startup issues
 * These builds have update notifications disabled, so check regularly for new testing builds. 
-  * Submitting a bug with an older version will cause a delay in verifying it and may result in the bug report being closed immediately until the bug is reported on the current testing version 
+  * Submitting a bug with an older version that's older than a week old will cause a delay in verifying it and may result in the bug report being closed immediately until the bug is reported on the current testing version 
   
 ## FAQ
 * Why aren't there any Mac OS X testing releases?
   * There are CI systems out there that support building on Mac OS X, however I do not have access to a Mac, so I am not able to personally test/verify that the build worked. Thus, I cannot be sure that the Mac OS X testing builds would even work on other computers. There may be testing builds for Mac OS X in the future, but I cannot promise anything. If you would like to help add Mac builds, open an issue!
   
-* How long will the support of a testing\bug reporting window of a build last?
-  * Until a new testing build is released
+* How much time do I have to submit a bug report until the build is considered old?
+  * One week after the build was posted
+
+* How often arer builds made?
+  * Builds are created every Monday and Friday at 11:59 UTC
   
 * Do I have to signup anywhere to test these builds?
   * No, but I ask you to read the Warnings section above and to report any/all bugs or errors that you encounter as soon as you can along with the steps to reproduce
