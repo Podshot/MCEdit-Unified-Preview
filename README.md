@@ -1,4 +1,5 @@
 # MCEdit-Unified-Preview
+[![Build status](https://ci.appveyor.com/api/projects/status/k7cjb7i5wgnx6bpy?svg=true)](https://ci.appveyor.com/project/Podshot/mcedit-unified)
 
 This repository is for hosting OpenGL .dlls required by the Windows build of MCEdit-Unified and for hosting the testing releases.
 
