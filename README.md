@@ -24,7 +24,7 @@ This repository is for hosting .dlls required by the Windows build of MCEdit-Uni
   * One week after the build was posted
 
 * How often are builds made?
-  * Builds are created every Monday and Friday at 11:59 UTC
+  * Builds are created every Friday at 11:59 UTC
   
 * Do I have to signup anywhere to test these builds?
   * No, but I ask you to read the Warnings section above and to report any/all bugs or errors that you encounter as soon as you can along with the steps to reproduce
